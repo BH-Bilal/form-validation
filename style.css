@@ -373,11 +373,11 @@ form.sign-up-form {
         padding: 1.5rem;
     }
     .container:before {
-        bottom: 82%;
+        bottom: 80%;
         left: 50%;
     }
     .container.sign-up-mode:before {
-        bottom: 18%;
+        bottom: 20%;
         left: 50%;
     }
 }
